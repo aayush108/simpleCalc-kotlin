@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="iohk.com.CalculatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-26T22:40:36" hostname="aayush-HP-Laptop-14-cf1xxx" time="0.083">
+  <properties/>
+  <testcase name="Addition of integers 1 and 1 should be equal to 2" classname="iohk.com.CalculatorTest" time="0.047"/>
+  <testcase name="Addition of integers 2 and 4 should be equal to 6" classname="iohk.com.CalculatorTest" time="0.001"/>
+  <testcase name="Addition of integers 3 and 9 should be equal to 12" classname="iohk.com.CalculatorTest" time="0.002"/>
+  <testcase name="Sums of even numbers in an array" classname="iohk.com.CalculatorTest" time="0.002"/>
+  <testcase name="Sums of even numbers in an array" classname="iohk.com.CalculatorTest" time="0.002"/>
+  <testcase name="Sums of even numbers in an array" classname="iohk.com.CalculatorTest" time="0.001"/>
+  <testcase name="5.5 multiplied by 1 is equal to 5.5}" classname="iohk.com.CalculatorTest" time="0.003"/>
+  <testcase name="0 multiplied by 4 is equal to 0}" classname="iohk.com.CalculatorTest" time="0.001"/>
+  <testcase name="10.8 multiplied by 9 is equal to 97.2}" classname="iohk.com.CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
