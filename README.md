@@ -8,7 +8,7 @@ This project has been created for unit testing and functional testing for the si
 * Jacoco reports
 
 ## Automated tests
-###Unit Test
+### Unit Test
 Unit tests are written in Junit5 and uses the parameterized tests feature. 
 This feature enables us to execute a single test method multiple times with different parameters.
 ### How to run
@@ -17,7 +17,7 @@ To run the unit tests, go to the project folder and use the following command
 ```
 gradle test
 ```
-###Functional Tests
+### Functional Tests
 Functional tests are written in cucumber and uses scenario outline feature. The scenarios can be found in resources/feature/Calculator.feature.
 ### How to run
 To run the BDD tests, go to the project folder and use the following command
