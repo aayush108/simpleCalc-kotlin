@@ -43,3 +43,11 @@ Test coverage results can be found on path **build/reports/jacoco/test/html/inde
 
 Cucumbers reports are generated using the publish feature in cucumber. The test run generates a new 
 url for the location of the report. The url can be found in the output of the test. They are stored for 24 hours.
+
+## Github action
+The github is configured to do the following actions on every push to main branch:
+
+* Run unit tests
+* Run BDD tests
+* Run tests with coverage
+* Archive test coverage results
