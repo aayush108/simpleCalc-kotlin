@@ -29,6 +29,9 @@ jobs:
       - name: Run BDD test
         run: gradle cucumber
 
+      - name: Run test coverage
+        run: gradle jacocoTestReport
+
       - name: Archive test report
         uses: actions/upload-artifact@v2
         with:
