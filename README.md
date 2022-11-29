@@ -1,5 +1,5 @@
 [![Run automated test](https://github.com/aayush108/simpleCalc-kotlin/actions/workflows/gradle.yml/badge.svg)](https://github.com/aayush108/simpleCalc-kotlin/actions/workflows/gradle.yml)
-# simpleCalc-kotlin
+# simpleCalc-Test
 This project has been created for unit testing and functional testing for the simple calculator project. 
 
 ## Built With
